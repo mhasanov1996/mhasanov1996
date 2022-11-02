@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mhasanov1996
-- 👀 I’m interested in Front-end Develoment
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mhasanov1996@gmail.com
 
 <!---
